@@ -1,0 +1,6 @@
+[2022-11-09, 11:26:28] Acquisition of serial communication port information is completed
+[2022-11-09, 11:26:28] Load port driver initialization fail
+[2022-11-09, 11:26:28] Load port driver close
+[2022-11-09, 11:29:12] Acquisition of serial communication port information is completed
+[2022-11-09, 11:29:12] Load port driver initialization fail
+[2022-11-09, 11:29:12] Load port driver close

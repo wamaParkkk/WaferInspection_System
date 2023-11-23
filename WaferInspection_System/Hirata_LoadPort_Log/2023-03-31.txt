@@ -1,0 +1,10 @@
+[2023-03-31, 09:10:53] Acquisition of serial communication port information is completed
+[2023-03-31, 09:10:53] Load port driver initialization fail
+[2023-03-31, 09:10:53] Load port driver close
+[2023-03-31, 17:33:49:769] Acquisition of serial communication port information is completed
+[2023-03-31, 17:33:49:775] Load port driver initialization fail
+[2023-03-31, 17:33:49:776] Load port driver close
+[2023-03-31, 17:34:15:663] 포트가 닫혀 있습니다.
+[2023-03-31, 17:34:16:371] 포트가 닫혀 있습니다.
+[2023-03-31, 17:34:16:677] 포트가 닫혀 있습니다.
+[2023-03-31, 17:34:16:896] 포트가 닫혀 있습니다.

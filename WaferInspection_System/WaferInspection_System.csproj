@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8FD543E7-60EC-46AB-BD2B-00A24475D40C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WaferInspection_System</RootNamespace>
+    <AssemblyName>WaferInspection_System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Amkor_logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ajin_IO_driver, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Ajin_IO_driver\Ajin_IO_driver\bin\Release\Ajin_IO_driver.dll</HintPath>
+    </Reference>
+    <Reference Include="Ajin_motion_driver">
+      <HintPath>..\..\Ajin_motion_driver\Ajin_motion_driver\bin\Release\Ajin_motion_driver.dll</HintPath>
+    </Reference>
+    <Reference Include="Hirata_LoadPort_driver, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Hirata_LoadPort_driver\Hirata_LoadPort_driver\bin\Debug\Hirata_LoadPort_driver.dll</HintPath>
+    </Reference>
+    <Reference Include="Koro_Robot_driver, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Koro_Robot_driver\Koro_Robot_driver\bin\Debug\Koro_Robot_driver.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlarmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlarmForm.Designer.cs">
+      <DependentUpon>AlarmForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlignerForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AlignerForm.designer.cs">
+      <DependentUpon>AlignerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnalogDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnalogDlg.designer.cs">
+      <DependentUpon>AnalogDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CK_ToggleBtn.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ConfigureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigureForm.Designer.cs">
+      <DependentUpon>ConfigureForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Define.cs" />
+    <Compile Include="DigitalDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DigitalDlg.designer.cs">
+      <DependentUpon>DigitalDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EventLogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EventLogForm.designer.cs">
+      <DependentUpon>EventLogForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="InterlockDisplayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InterlockDisplayForm.Designer.cs">
+      <DependentUpon>InterlockDisplayForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KeyboardDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KeyboardDlg.designer.cs">
+      <DependentUpon>KeyboardDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaintnanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaintnanceForm.Designer.cs">
+      <DependentUpon>MaintnanceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OperationForm.Designer.cs">
+      <DependentUpon>OperationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PMForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PMForm.designer.cs">
+      <DependentUpon>PMForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Squence\ModuleMoving.cs" />
+    <Compile Include="Squence\TMMoving.cs" />
+    <Compile Include="TMForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TMForm.Designer.cs">
+      <DependentUpon>TMForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadPortForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LoadPortForm.designer.cs">
+      <DependentUpon>LoadPortForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Struct.cs" />
+    <Compile Include="UserDataDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UserDataDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UserRegistForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserRegistForm.designer.cs">
+      <DependentUpon>UserRegistForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AlarmForm.resx">
+      <DependentUpon>AlarmForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlignerForm.resx">
+      <DependentUpon>AlignerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnalogDlg.resx">
+      <DependentUpon>AnalogDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigureForm.resx">
+      <DependentUpon>ConfigureForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DigitalDlg.resx">
+      <DependentUpon>DigitalDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EventLogForm.resx">
+      <DependentUpon>EventLogForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InterlockDisplayForm.resx">
+      <DependentUpon>InterlockDisplayForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeyboardDlg.resx">
+      <DependentUpon>KeyboardDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaintnanceForm.resx">
+      <DependentUpon>MaintnanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperationForm.resx">
+      <DependentUpon>OperationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PMForm.resx">
+      <DependentUpon>PMForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TMForm.resx">
+      <DependentUpon>TMForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadPortForm.resx">
+      <DependentUpon>LoadPortForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserRegistForm.resx">
+      <DependentUpon>UserRegistForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="UserDataDataSet.xsc">
+      <DependentUpon>UserDataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UserDataDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UserDataDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UserDataDataSet.xss">
+      <DependentUpon>UserDataDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Amkor_logo.ico" />
+    <None Include="images\Alarm2.png" />
+    <None Include="images\Alarm1.png" />
+    <None Include="images\log.png" />
+    <None Include="images\register.png" />
+    <None Include="images\Operation.png" />
+    <None Include="images\Maint.png" />
+    <None Include="images\RecipeButton.png" />
+    <None Include="images\ConfigButton.png" />
+    <None Include="images\IOButton.png" />
+    <None Include="images\ExitButton.png" />
+    <None Include="images\Air1.png" />
+    <None Include="images\Air2.png" />
+    <None Include="images\Air3.png" />
+    <None Include="images\Air4.png" />
+    <None Include="images\Back.png" />
+    <None Include="images\lock.png" />
+    <None Include="images\AlarmButton.png" />
+    <None Include="images\Chamber\BrushDoor_Close.png" />
+    <None Include="images\Chamber\BrushDoor_Open.png" />
+    <None Include="images\Chamber\WaterBlockDoor_Close.png" />
+    <None Include="images\Chamber\WaterBlockDoor_Open.png" />
+    <None Include="images\loginGroup.png" />
+    <None Include="images\LogOut.png" />
+    <None Include="images\MainButton.png" />
+    <None Include="images\user.png" />
+    <None Include="images\Water.png" />
+    <None Include="images\Water2.png" />
+    <None Include="images\Water3.png" />
+    <None Include="images\Water4.png" />
+    <None Include="images\Motor_brush.png" />
+    <None Include="images\x-axis.png" />
+    <None Include="images\MotorRotate.png" />
+    <None Include="images\MotorUpDown.png" />
+    <None Include="images\Chamber\Robot.png" />
+    <None Include="images\Chamber\LoadPort.png" />
+    <Content Include="UserData.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

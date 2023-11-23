@@ -1,0 +1,343 @@
+[2022-10-20, 12:07:53] Acquisition of serial communication port information is completed
+[2022-10-20, 12:07:53] Serial port opened successfully
+[2022-10-20, 12:08:51] Acquisition of serial communication port information is completed
+[2022-10-20, 12:08:51] Serial port opened successfully
+[2022-10-20, 12:09:33] Acquisition of serial communication port information is completed
+[2022-10-20, 12:09:33] Serial port opened successfully
+[2022-10-20, 12:10:09] Acquisition of serial communication port information is completed
+[2022-10-20, 12:10:09] Serial port opened successfully
+[2022-10-20, 13:06:42] Acquisition of serial communication port information is completed
+[2022-10-20, 13:06:42] Serial port opened successfully
+[2022-10-20, 13:07:35] Acquisition of serial communication port information is completed
+[2022-10-20, 13:07:35] Serial port opened successfully
+[2022-10-20, 13:07:45] Send : 0HOM
+[2022-10-20, 13:07:45] Recv : RR+035000TT+047000ZZ+190000
+[2022-10-20, 13:07:45] Receive data abnormal
+[2022-10-20, 13:08:27] Send : 0HOM
+[2022-10-20, 13:08:27] Recv : E
+[2022-10-20, 13:08:27] Receive data abnormal
+[2022-10-20, 13:09:30] Acquisition of serial communication port information is completed
+[2022-10-20, 13:09:30] Serial port opened successfully
+[2022-10-20, 13:12:43] Acquisition of serial communication port information is completed
+[2022-10-20, 13:12:43] Serial port opened successfully
+[2022-10-20, 13:13:52] Acquisition of serial communication port information is completed
+[2022-10-20, 13:13:52] Serial port opened successfully
+[2022-10-20, 13:14:04] Send : 0APP 0010A0
+[2022-10-20, 13:14:04] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 13:14:04] Receive data abnormal
+[2022-10-20, 13:14:25] Send : 0APP 0010A0
+[2022-10-20, 13:14:25] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 13:14:25] Receive data abnormal
+[2022-10-20, 13:14:32] Send : 0HOM
+[2022-10-20, 13:14:32] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 13:14:32] Receive data abnormal
+[2022-10-20, 14:06:18] Acquisition of serial communication port information is completed
+[2022-10-20, 14:06:18] Koro robot driver initialization fail
+[2022-10-20, 14:06:18] Koro robot driver close
+[2022-10-20, 14:07:16] Acquisition of serial communication port information is completed
+[2022-10-20, 14:07:16] Serial port opened successfully
+[2022-10-20, 14:07:33] Send : 0HOM
+[2022-10-20, 14:07:33] Recv : RR+035000TT+047000ZZ+240000
+[2022-10-20, 14:07:33] Receive data abnormal
+[2022-10-20, 14:07:47] Send : 0HOM
+[2022-10-20, 14:07:47] Recv : RR+035000TT+047000ZZ+240000
+[2022-10-20, 14:07:47] Receive data abnormal
+[2022-10-20, 14:07:51] Send : 0HOM
+[2022-10-20, 14:07:51] Recv : 0100000000000001
+[2022-10-20, 14:07:51] Receive data abnormal
+[2022-10-20, 14:07:52] Send : 0HOM
+[2022-10-20, 14:07:52] Recv : RR+035000TT+047000ZZ+240000
+[2022-10-20, 14:07:52] Receive data abnormal
+[2022-10-20, 14:08:11] Send : 0HOM
+[2022-10-20, 14:08:11] Recv : RR+035000TT+047000ZZ+240000
+[2022-10-20, 14:08:11] Receive data abnormal
+[2022-10-20, 14:09:11] Acquisition of serial communication port information is completed
+[2022-10-20, 14:09:11] Serial port opened successfully
+[2022-10-20, 14:09:28] Send : 0APP 0110A0
+[2022-10-20, 14:09:28] Recv : 0100000020000000
+[2022-10-20, 14:09:28] Receive data abnormal
+[2022-10-20, 14:09:45] Send : 0APP 0110A0
+[2022-10-20, 14:09:45] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:09:45] Receive data abnormal
+[2022-10-20, 14:10:14] Acquisition of serial communication port information is completed
+[2022-10-20, 14:10:14] Serial port opened successfully
+[2022-10-20, 14:11:05] Acquisition of serial communication port information is completed
+[2022-10-20, 14:11:05] Serial port opened successfully
+[2022-10-20, 14:11:20] Send : 0APP 0110A0
+[2022-10-20, 14:11:20] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:11:20] Receive data abnormal
+[2022-10-20, 14:15:41] Acquisition of serial communication port information is completed
+[2022-10-20, 14:15:41] Serial port opened successfully
+[2022-10-20, 14:15:54] Send : 0RET A
+[2022-10-20, 14:15:55] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:15:55] Receive data abnormal
+[2022-10-20, 14:16:37] Acquisition of serial communication port information is completed
+[2022-10-20, 14:16:37] Serial port opened successfully
+[2022-10-20, 14:16:46] Send : 0APP 0110A0
+[2022-10-20, 14:16:46] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:16:46] Receive data abnormal
+[2022-10-20, 14:16:59] Send : 0APP 0110A0
+[2022-10-20, 14:16:59] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:16:59] Receive data abnormal
+[2022-10-20, 14:17:00] Send : 0APP 0110A0
+[2022-10-20, 14:17:00] Recv : 0100000000000000
+[2022-10-20, 14:17:00] Receive data abnormal
+[2022-10-20, 14:17:00] Send : 0APP 0110A0
+[2022-10-20, 14:17:00] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:17:00] Receive data abnormal
+[2022-10-20, 14:17:00] Send : 0APP 0110A0
+[2022-10-20, 14:17:00] Recv : E
+[2022-10-20, 14:17:00] Receive data abnormal
+[2022-10-20, 14:17:00] Send : 0APP 0110A0
+[2022-10-20, 14:17:00] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:17:00] Receive data abnormal
+[2022-10-20, 14:17:01] Send : 0APP 0110A0
+[2022-10-20, 14:17:01] Recv : 0100000000000000
+[2022-10-20, 14:17:01] Receive data abnormal
+[2022-10-20, 14:17:11] Send : 0SLOG
+[2022-10-20, 14:17:11] Recv : 0100000000000000
+[2022-10-20, 14:17:11] Receive data abnormal
+[2022-10-20, 14:18:17] Acquisition of serial communication port information is completed
+[2022-10-20, 14:18:17] Serial port opened successfully
+[2022-10-20, 14:18:31] Send : 0APP 0110A0
+[2022-10-20, 14:18:31] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:18:31] Receive data abnormal
+[2022-10-20, 14:19:32] Acquisition of serial communication port information is completed
+[2022-10-20, 14:19:32] Serial port opened successfully
+[2022-10-20, 14:20:06] Send : 0APP 0110A0
+[2022-10-20, 14:20:19] Recv : 0100000000000000
+[2022-10-20, 14:20:19] Receive data abnormal
+[2022-10-20, 14:20:26] Send : 0HOM
+[2022-10-20, 14:20:26] Recv : E
+[2022-10-20, 14:20:27] Receive data abnormal
+[2022-10-20, 14:21:08] Send : 0APP 0110A0
+[2022-10-20, 14:21:08] Recv : E
+[2022-10-20, 14:21:08] Receive data abnormal
+[2022-10-20, 14:31:32] Acquisition of serial communication port information is completed
+[2022-10-20, 14:31:32] Koro robot driver initialization fail
+[2022-10-20, 14:31:32] Koro robot driver close
+[2022-10-20, 14:37:08] Acquisition of serial communication port information is completed
+[2022-10-20, 14:37:08] Koro robot driver initialization fail
+[2022-10-20, 14:37:08] Koro robot driver close
+[2022-10-20, 14:37:34] Acquisition of serial communication port information is completed
+[2022-10-20, 14:37:34] Koro robot driver initialization fail
+[2022-10-20, 14:37:34] Koro robot driver close
+[2022-10-20, 14:38:02] Acquisition of serial communication port information is completed
+[2022-10-20, 14:38:02] Koro robot driver initialization fail
+[2022-10-20, 14:38:02] Koro robot driver close
+[2022-10-20, 14:38:31] Acquisition of serial communication port information is completed
+[2022-10-20, 14:38:31] Koro robot driver initialization fail
+[2022-10-20, 14:38:31] Koro robot driver close
+[2022-10-20, 14:41:35] Acquisition of serial communication port information is completed
+[2022-10-20, 14:41:35] Koro robot driver initialization fail
+[2022-10-20, 14:41:35] Koro robot driver close
+[2022-10-20, 14:52:02] Acquisition of serial communication port information is completed
+[2022-10-20, 14:52:02] Serial port opened successfully
+[2022-10-20, 14:52:17] Send : 0GET 0110A0
+[2022-10-20, 14:52:17] Recv : 0100000000000000
+[2022-10-20, 14:52:17] Receive data abnormal
+[2022-10-20, 14:52:44] Send : 0HOM
+[2022-10-20, 14:52:44] Recv : 0100000000000000
+[2022-10-20, 14:52:44] Receive data abnormal
+[2022-10-20, 14:53:13] Send : 0GET 0110A0
+[2022-10-20, 14:53:13] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:53:13] Receive data abnormal
+[2022-10-20, 14:54:04] Send : 0GET 0110A0
+[2022-10-20, 14:54:04] Recv : E
+[2022-10-20, 14:54:04] Receive data abnormal
+[2022-10-20, 14:54:13] Send : 0PUT 0110A0
+[2022-10-20, 14:54:13] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:54:13] Receive data abnormal
+[2022-10-20, 14:54:22] Send : 0PAUSE
+[2022-10-20, 14:54:22] Recv : 0100000000000000
+[2022-10-20, 14:54:22] Receive data abnormal
+[2022-10-20, 14:54:25] Send : 0RESUME
+[2022-10-20, 14:54:25] Recv : 0100000000000000
+[2022-10-20, 14:54:25] Receive data abnormal
+[2022-10-20, 14:54:28] Send : 0PAUSE
+[2022-10-20, 14:54:28] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:54:28] Receive data abnormal
+[2022-10-20, 14:54:32] Send : 0HOM
+[2022-10-20, 14:54:32] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 14:54:32] Receive data abnormal
+[2022-10-20, 15:18:02] Acquisition of serial communication port information is completed
+[2022-10-20, 15:18:02] Serial port opened successfully
+[2022-10-20, 15:18:13] Send : 0HOM
+[2022-10-20, 15:18:13] Recv : RR+035000TT+047000ZZ+000000
+[2022-10-20, 15:18:13] Receive data abnormal
+[2022-10-20, 15:18:47] Send : 0GET 0110
+[2022-10-20, 15:18:48] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 15:18:48] Receive data abnormal
+[2022-10-20, 15:18:56] Send : 0PUT 0110
+[2022-10-20, 15:18:56] Recv : RR+035000TT+047000ZZ+090000
+[2022-10-20, 15:18:56] Receive data abnormal
+[2022-10-20, 15:19:22] Send : 0PUT 0210
+[2022-10-20, 15:19:23] Recv : 0100000000000001
+[2022-10-20, 15:19:23] Receive data abnormal
+[2022-10-20, 15:19:23] Send : 0GET 0210
+[2022-10-20, 15:19:24] Recv : 0100000000000001
+[2022-10-20, 15:19:24] Receive data abnormal
+[2022-10-20, 15:19:35] Send : 0EXT 02
+[2022-10-20, 15:19:36] Recv : E
+[2022-10-20, 15:19:36] Receive data abnormal
+[2022-10-20, 15:19:38] Send : 0RET 
+[2022-10-20, 15:19:38] Recv : RR+035000TT+137000ZZ+090000
+[2022-10-20, 15:19:38] Receive data abnormal
+[2022-10-20, 15:19:41] Send : 0RET 
+[2022-10-20, 15:19:41] Recv : RR+114000TT+137000ZZ+090000
+[2022-10-20, 15:19:41] Receive data abnormal
+[2022-10-20, 15:19:43] Send : 0RET 
+[2022-10-20, 15:19:43] Recv : RR+114000TT+137000ZZ+090000
+[2022-10-20, 15:19:43] Receive data abnormal
+[2022-10-20, 15:19:47] Send : 0RET 
+[2022-10-20, 15:19:47] Recv : E
+[2022-10-20, 15:19:47] Receive data abnormal
+[2022-10-20, 15:19:48] Send : 0RET 
+[2022-10-20, 15:19:48] Recv : RR+114000TT+137000ZZ+090000
+[2022-10-20, 15:19:48] Receive data abnormal
+[2022-10-20, 15:19:48] Send : 0RET 
+[2022-10-20, 15:19:48] Recv : RR+114000TT+137000ZZ+090000
+[2022-10-20, 15:19:48] Receive data abnormal
+[2022-10-20, 15:19:48] Send : 0RET 
+[2022-10-20, 15:19:48] Recv : 0100000021000002
+[2022-10-20, 15:19:48] Receive data abnormal
+[2022-10-20, 15:19:48] Send : 0RET 
+[2022-10-20, 15:19:48] Recv : RR+114000TT+137000ZZ+090000
+[2022-10-20, 15:19:48] Receive data abnormal
+[2022-10-20, 15:19:48] Send : 0RET 
+[2022-10-20, 15:19:49] Recv : RR+114000TT+137000ZZ+090000
+[2022-10-20, 15:19:49] Receive data abnormal
+[2022-10-20, 15:19:50] Send : 0RET 
+[2022-10-20, 15:19:50] Recv : RR+114000TT+137000ZZ+090000
+[2022-10-20, 15:19:50] Receive data abnormal
+[2022-10-20, 15:19:50] Send : 0RET 
+[2022-10-20, 15:19:50] Recv : RR+114000TT+137000ZZ+090000
+[2022-10-20, 15:19:51] Receive data abnormal
+[2022-10-20, 15:19:51] Send : 0RET 
+[2022-10-20, 15:19:51] Recv : 0100000001000002
+[2022-10-20, 15:19:51] Receive data abnormal
+[2022-10-20, 15:19:51] Send : 0RET 
+[2022-10-20, 15:19:51] Recv : 0100000001000002
+[2022-10-20, 15:19:51] Receive data abnormal
+[2022-10-20, 15:20:00] Send : 0APP 0110
+[2022-10-20, 15:20:00] Recv : 0100000021000002
+[2022-10-20, 15:20:01] Receive data abnormal
+[2022-10-20, 15:20:17] Send : 0PUT 0110
+[2022-10-20, 15:20:17] Recv : RR+035000TT+047000ZZ+090000
+[2022-10-20, 15:20:18] Receive data abnormal
+[2022-10-20, 15:20:22] Send : 0GET 0110
+[2022-10-20, 15:20:22] Recv : 0100000020000001
+[2022-10-20, 15:20:22] Receive data abnormal
+[2022-10-20, 15:54:35] Acquisition of serial communication port information is completed
+[2022-10-20, 15:54:35] Serial port opened successfully
+[2022-10-20, 15:55:00] Send : 0PUT 0311
+[2022-10-20, 15:55:00] Recv : E
+[2022-10-20, 15:55:00] Receive data abnormal
+[2022-10-20, 15:55:04] Send : 0GET 0111
+[2022-10-20, 15:55:04] Recv : RR+035000TT+047000ZZ+090000
+[2022-10-20, 15:55:04] Receive data abnormal
+[2022-10-20, 15:55:41] Send : 0PUT 0311
+[2022-10-20, 15:55:41] Recv : RR+035000TT+047000ZZ+100000
+[2022-10-20, 15:55:41] Receive data abnormal
+[2022-10-20, 15:55:50] Send : 0GET 0210
+[2022-10-20, 15:55:50] Recv : E
+[2022-10-20, 15:55:51] Receive data abnormal
+[2022-10-20, 15:56:08] Send : 0ZUP 02
+[2022-10-20, 15:56:08] Recv : RR+035000TT+137000ZZ+090000
+[2022-10-20, 15:56:08] Receive data abnormal
+[2022-10-20, 15:56:10] Send : 0ZDN 02
+[2022-10-20, 15:56:10] Recv : E
+[2022-10-20, 15:56:10] Receive data abnormal
+[2022-10-20, 15:56:11] Send : 0VON 
+[2022-10-20, 15:56:11] Recv : RR+035000TT+137000ZZ+090000
+[2022-10-20, 15:56:12] Receive data abnormal
+[2022-10-20, 15:56:14] Send : 0VOF 
+[2022-10-20, 15:56:14] Recv : RR+035000TT+137000ZZ+090000
+[2022-10-20, 15:56:14] Receive data abnormal
+[2022-10-20, 15:56:16] Send : 0APP 0210
+[2022-10-20, 15:56:16] Recv : 0100000000010002
+[2022-10-20, 15:56:16] Receive data abnormal
+[2022-10-20, 15:56:19] Send : 0APP 0210
+[2022-10-20, 15:56:19] Recv : 0100000000000002
+[2022-10-20, 15:56:19] Receive data abnormal
+[2022-10-20, 15:56:28] Send : 0APP 0110
+[2022-10-20, 15:56:28] Recv : 0100000000000002
+[2022-10-20, 15:56:28] Receive data abnormal
+[2022-10-20, 15:56:33] Send : 0APP 0102
+[2022-10-20, 15:56:33] Recv : RR+035000TT+137000ZZ+090000
+[2022-10-20, 15:56:33] Receive data abnormal
+[2022-10-20, 15:56:37] Send : 0APP 0110
+[2022-10-20, 15:56:37] Recv : 0100000020000002
+[2022-10-20, 15:56:37] Receive data abnormal
+[2022-10-20, 15:56:41] Send : 0APP 0101
+[2022-10-20, 15:56:41] Recv : RR+035000TT+137000ZZ+090000
+[2022-10-20, 15:56:41] Receive data abnormal
+[2022-10-20, 15:56:42] Send : 0APP 0101
+[2022-10-20, 15:56:42] Recv : RR+035000TT+137000ZZ+090000
+[2022-10-20, 15:56:42] Receive data abnormal
+[2022-10-20, 16:15:01] Send : 0HOM
+[2022-10-20, 16:15:01] Recv : RR+035000TT+047000ZZ+000000
+[2022-10-20, 16:15:01] Receive data abnormal
+[2022-10-20, 16:15:36] Send : 0GET 0110
+[2022-10-20, 16:15:36] Recv : RR+035000TT+047000ZZ+000000
+[2022-10-20, 16:15:36] Receive data abnormal
+[2022-10-20, 16:15:52] Send : 0GET 0210
+[2022-10-20, 16:15:52] Recv : 0100000000000001
+[2022-10-20, 16:15:52] Receive data abnormal
+[2022-10-20, 16:15:55] Send : 0GET 0210
+[2022-10-20, 16:15:55] Recv : RR+035000TT+047000ZZ+000000
+[2022-10-20, 16:15:55] Receive data abnormal
+[2022-10-20, 16:16:04] Send : 0APP 0110
+[2022-10-20, 16:16:04] Recv : 0100000000000001
+[2022-10-20, 16:16:04] Receive data abnormal
+[2022-10-20, 16:16:08] Send : 0APP 0110
+[2022-10-20, 16:16:08] Recv : RR+035000TT+047000ZZ+000000
+[2022-10-20, 16:16:08] Receive data abnormal
+[2022-10-20, 16:16:09] Send : 0APP 0110
+[2022-10-20, 16:16:09] Recv : 0100000000000001
+[2022-10-20, 16:16:09] Receive data abnormal
+[2022-10-20, 16:16:23] Send : 0GET 0125
+[2022-10-20, 16:16:23] Recv : 0010000000000000
+[2022-10-20, 16:16:23] Receive data abnormal
+[2022-10-20, 16:16:30] Send : 0HOM
+[2022-10-20, 16:16:30] Recv : 0010000000000000
+[2022-10-20, 16:16:31] Receive data abnormal
+[2022-10-20, 16:16:31] Send : 0HOM
+[2022-10-20, 16:16:31] Recv : 0010000000000000
+[2022-10-20, 16:16:31] Receive data abnormal
+[2022-10-20, 16:17:08] Send : 0GET 0105
+[2022-10-20, 16:17:08] Recv : RR+035000TT+047000ZZ+090000
+[2022-10-20, 16:17:08] Receive data abnormal
+[2022-10-20, 16:17:21] Send : 0GET 0205
+[2022-10-20, 16:17:21] Recv : RR+035000TT+137000ZZ+090000
+[2022-10-20, 16:17:21] Receive data abnormal
+[2022-10-20, 16:17:33] Send : 0GET 0110
+[2022-10-20, 16:17:33] Recv : RR+035000TT+047000ZZ+090000
+[2022-10-20, 16:17:33] Receive data abnormal
+[2022-10-20, 16:17:44] Send : 0GET 0205
+[2022-10-20, 16:17:45] Recv : RR+035000TT+047000ZZ+090000
+[2022-10-20, 16:17:45] Receive data abnormal
+[2022-10-20, 16:17:56] Send : 0GET 0215
+[2022-10-20, 16:17:56] Recv : 0010000000000000
+[2022-10-20, 16:17:56] Receive data abnormal
+[2022-10-20, 16:18:12] Send : 0GET 0212
+[2022-10-20, 16:18:12] Recv : RR+0350000010000000000000
+[2022-10-20, 16:18:12] Receive data abnormal
+[2022-10-20, 16:18:23] Send : 0GET 0211
+[2022-10-20, 16:18:24] Recv : RR+035000TT+000000ZZ+000000
+[2022-10-20, 16:18:24] Receive data abnormal
+[2022-10-20, 16:18:33] Send : 0GET 0111
+[2022-10-20, 16:18:33] Recv : 0100000000000001
+[2022-10-20, 16:18:33] Receive data abnormal
+[2022-10-20, 16:18:49] Send : 0GET 0211
+[2022-10-20, 16:18:49] Recv : 0100000000000002
+[2022-10-20, 16:18:50] Receive data abnormal
+[2022-10-20, 16:19:09] Send : 0GET 0111
+[2022-10-20, 16:19:09] Recv : 0111000001010002
+[2022-10-20, 16:19:10] Receive data abnormal
+[2022-10-20, 16:20:08] Send : 0HOM
+[2022-10-20, 16:20:08] Recv : RR+035000TT+047000ZZ+100000
+[2022-10-20, 16:20:08] Receive data abnormal
+[2022-10-20, 17:21:39] Acquisition of serial communication port information is completed
+[2022-10-20, 17:21:39] Koro robot driver initialization fail
+[2022-10-20, 17:21:39] Koro robot driver close

@@ -1,0 +1,18 @@
+[2022-11-08, 13:41:51] Acquisition of serial communication port information is completed
+[2022-11-08, 13:41:51] Koro robot driver initialization fail
+[2022-11-08, 13:41:51] Koro robot driver close
+[2022-11-08, 13:44:41] Acquisition of serial communication port information is completed
+[2022-11-08, 13:44:41] Koro robot driver initialization fail
+[2022-11-08, 13:44:41] Koro robot driver close
+[2022-11-08, 13:45:54] Acquisition of serial communication port information is completed
+[2022-11-08, 13:45:54] Koro robot driver initialization fail
+[2022-11-08, 13:45:54] Koro robot driver close
+[2022-11-08, 13:47:04] Acquisition of serial communication port information is completed
+[2022-11-08, 13:47:08] Koro robot driver initialization fail
+[2022-11-08, 13:47:08] Koro robot driver close
+[2022-11-08, 13:51:50] Acquisition of serial communication port information is completed
+[2022-11-08, 13:51:50] Koro robot driver initialization fail
+[2022-11-08, 13:51:51] Koro robot driver close
+[2022-11-08, 13:54:31] Acquisition of serial communication port information is completed
+[2022-11-08, 13:54:31] Koro robot driver initialization fail
+[2022-11-08, 13:54:31] Koro robot driver close

@@ -1,0 +1,3 @@
+[2023-07-11, 17:05:26:436] Acquisition of serial communication port information is completed
+[2023-07-11, 17:05:26:446] Load port driver initialization fail
+[2023-07-11, 17:05:26:448] Load port driver close
